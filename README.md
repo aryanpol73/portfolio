@@ -1,6 +1,6 @@
-# Launch Sequence — Portfolio & Cosmic Alchemy
+# Portfolio
 
-> An interactive space-themed portfolio and physics-based alchemy mini-game. Built with pure HTML5, CSS, and Vanilla JavaScript—no external libraries, no build step.
+> An interactive portfolio. Built with pure HTML5, CSS, and Vanilla JavaScript—no external libraries, no build step.
 
 ## Features
 - **Launch Sequence**: Countdown, engine ignition, altitude HUD, dynamic speed-responsive starfields and smoke.
